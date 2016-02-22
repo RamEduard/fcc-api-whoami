@@ -1,0 +1,27 @@
+{
+  "name": "api-whoami",
+  "version": "0.0.1",
+  "description": "API who am i for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RamEduard/fcc-api-whoami.git"
+  },
+  "keywords": [
+    "API",
+    "JSON",
+    "FreeCodeCamp"
+  ],
+  "author": "Ramón Serrano <ramon.calle.88@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "bugs": {
+    "url": "https://github.com/RamEduard/fcc-api-whoami/issues"
+  },
+  "homepage": "https://github.com/RamEduard/fcc-api-whoami#readme"
+}
